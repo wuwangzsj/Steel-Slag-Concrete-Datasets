@@ -17,11 +17,10 @@ Substitution Rate	Natural Sand	Natural Aggregate	Steel Slag Aggregate	Cement	Wat
 10	90	770.13	102.087	918.783	435	174
 11	100	770.13	0	1020.87	435	174
 
-![image](https://github.com/user-attachments/assets/8844373d-350a-44ac-b19b-aa06cdfd7549)
 
 Image Acquisition and Annotation
 After standard curing, each concrete specimen was vertically sliced to expose internal aggregate distributions. A custom imaging setup was designed to ensure consistent lighting and high-contrast image capture. The acquired raw images were augmented using cropping, rotation, and salt-and-pepper noise addition.
-![image](https://github.com/user-attachments/assets/4766e308-935a-4612-a692-09c2d765cee8)
+
 
 For semantic segmentation tasks, all images were pixel-wise annotated using the AnyLabeling software. Three classes were labeled: natural aggregate, steel slag aggregate, and pores. Unlabeled or ambiguous regions were marked as background. To improve annotation efficiency and segmentation detail, the Segment Anything Model (SAM) developed by Meta AI was integrated into the annotation process.
 
