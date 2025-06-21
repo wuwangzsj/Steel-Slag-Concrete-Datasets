@@ -28,12 +28,9 @@ A visual comparison between traditional manual annotation and SAM-assisted annot
 
 Traditional Annotation	SAM-assisted Annotation
 
-Dataset Split
-Training set: 80%
+Dataset download link： https://pan.baidu.com/s/1AQNfHseqvyoc2ZjDHhVXKQ 提取码: iqiw
+![image](https://github.com/user-attachments/assets/28bb97d6-7635-4b3c-b789-14202f6db625)
 
-Validation set: 10%
-
-Test set: 10%
 
 Intended Use
 This dataset is intended for academic and research purposes in the fields of:
