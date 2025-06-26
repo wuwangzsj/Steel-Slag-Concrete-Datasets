@@ -28,7 +28,7 @@ A visual comparison between traditional manual annotation and SAM-assisted annot
 
 Traditional Annotation	SAM-assisted Annotation
 
-Dataset download link： https://pan.baidu.com/s/1AQNfHseqvyoc2ZjDHhVXKQ 提取码: iqiw
+Dataset download link： 
 ![image](https://github.com/user-attachments/assets/28bb97d6-7635-4b3c-b789-14202f6db625)
 
 
